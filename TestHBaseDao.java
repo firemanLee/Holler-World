@@ -50,7 +50,7 @@ public class TestHBaseDao implements Serializable {
 	     }
 		System.gc();
 	}
-	private static void putDate(){//1463368830869
+	private static void putDate(){
 		List<Put> list = new ArrayList<Put>();
 		Configuration config = HBaseConfiguration.create();
 		try {
