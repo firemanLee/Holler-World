@@ -1,2 +1,2 @@
 # Holler-World
-modify Version  for hbase Table
+这里面记录平常工作过程中所踩过的坑，以及解决方案。
